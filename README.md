@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Digital Diaries - Resort Leads Node.js Backend
 
 High-performance Express & MySQL backend for Digital Diaries lead capture, ready for **Render** deployment.
@@ -56,3 +57,6 @@ Because Render runs in the cloud (outside of Hostinger's local network), Hosting
    - **IP (IPv4 or IPv6)**: Enter `%` (the percent symbol allows connections from any external server like Render/localhost).
    - **Database**: Select `u774474676_dd_leads`.
 4. Click **Create**.
+=======
+# DD_LSM_Back
+>>>>>>> 886f74de41e8514ba39e5479fcd7bd226bececeb
